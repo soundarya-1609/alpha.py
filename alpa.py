@@ -1,5 +1,5 @@
 char=input()
 if char.isalpha():
-   print("Ahabet")
+   print("Alphabet")
 else:
    print("No")
